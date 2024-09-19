@@ -13,7 +13,7 @@ A compassionate and supportive chatbot designed to provide users with emotional 
 </p>
 </div>
 
-## About The Project
+## Why Mental Health Assistant? ✅
 
 ![Product Screenshot](https://github.com/daviddprtma/Llama-Chatbot-with-Sentiment-Analysis-Integration/blob/8b65bb1070441362eacfd115b985af2364145ca2/mental%20health%20assistant.png)
 
